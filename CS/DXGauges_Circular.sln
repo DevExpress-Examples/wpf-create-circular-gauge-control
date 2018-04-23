@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGauges_Circular", "DXGauges_Circular.csproj", "{B659A0DF-CB92-4885-A4B4-893F583FF90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B659A0DF-CB92-4885-A4B4-893F583FF90C}.Debug|x86.ActiveCfg = Debug|x86
+		{B659A0DF-CB92-4885-A4B4-893F583FF90C}.Debug|x86.Build.0 = Debug|x86
+		{B659A0DF-CB92-4885-A4B4-893F583FF90C}.Release|x86.ActiveCfg = Release|x86
+		{B659A0DF-CB92-4885-A4B4-893F583FF90C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
