@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGauges_Circular", "DXGauges_Circular.csproj", "{B659A0DF-CB92-4885-A4B4-893F583FF90C}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGauges_Circular", "DXGauges_Circular.Net5.csproj", "{B659A0DF-CB92-4885-A4B4-893F583FF90C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
