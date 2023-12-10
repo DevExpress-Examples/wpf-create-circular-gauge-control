@@ -26,5 +26,6 @@ This example creates and customizes a [WPF Circular Gauge Control](https://docs.
 
 ## Related Examples
 
+* [WPF Gauge - Create a Linear Gauge](https://github.com/DevExpress-Examples/wpf-tutorial-create-linear-gauge)
 * [WPF Linear Gauge - Display Custom UI Elements](https://github.com/DevExpress-Examples/wpf-linear-gauge-display-custom-ui-elements)
 * [WPF Gauge - Create a State Indicator](https://github.com/DevExpress-Examples/wpf-gauge-create-state-indicator)
