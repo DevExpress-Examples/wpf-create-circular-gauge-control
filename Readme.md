@@ -3,16 +3,28 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3199)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WPF Gauge - Create a Circular Gauge
+
+This example creates and customizes a [WPF Circular Gauge Control](https://docs.devexpress.com/WPF/DevExpress.Xpf.Gauges.CircularGaugeControl). Please read the following step-by-step tutorial for additional information: [Lesson 1 - Create a Circular Gauge](https://docs.devexpress.com/WPF/9800/controls-and-libraries/gauge-controls/getting-started/lesson-1-create-a-circular-gauge).
+
+![WPF Circular Gauge, DevExpress](https://raw.githubusercontent.com/DevExpress-Examples/dxgauges-getting-started-lesson-1-create-a-circular-gauge-e3199/22.2.2%2B/i/wpf-circular-gauge-devexpress.png)
+
+
+## Files to Review
 
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
-<!-- default file list end -->
-# DXGauges Getting Started - Lesson 1 - Create a Circular Gauge
 
 
-<p>This is the first tutorial of the DXGauges Getting Started series. It will guide you through the process of creating a Circular gauge and adjusting its common settings.</p>
+## Documentation
 
-<br/>
+* [How to Create a Circular Gauge](https://docs.devexpress.com/WPF/9800/controls-and-libraries/gauge-controls/getting-started/lesson-1-create-a-circular-gauge)
+* [How to Create a Linear Gauge](https://docs.devexpress.com/WPF/9801/controls-and-libraries/gauge-controls/getting-started/lesson-2-create-a-linear-gauge)
+* [Create a Digital Gauge](https://docs.devexpress.com/WPF/10664/controls-and-libraries/gauge-controls/getting-started/lesson-3-create-a-digital-gauge)
+* [How to Create a State Indicator](https://docs.devexpress.com/WPF/10665/controls-and-libraries/gauge-controls/getting-started/lesson-4-create-a-state-indicator)
 
 
+## Related Examples
+
+* [WPF Linear Gauge - Display Custom UI Elements](https://github.com/DevExpress-Examples/wpf-linear-gauge-display-custom-ui-elements)
+* [WPF Gauge - Create a State Indicator](https://github.com/DevExpress-Examples/wpf-gauge-create-state-indicator)
